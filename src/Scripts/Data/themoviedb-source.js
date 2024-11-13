@@ -1,4 +1,4 @@
-import API_ENDPOINT from "../Globals/endpoint";
+import API_ENDPOINT from "../Globals/api-endpoint";
 
 class TheMovieDbSource {
   static async nowPlayingMovies() {
